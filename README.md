@@ -23,7 +23,7 @@ Here are some ideas to get you started:
          science degree
          
  ### 🥩 Best time to contact you?
-     🦝 After hours, PDT Timezone
+     🦝 After hours, Pacific Time
      
  ### 🥝 Languages?
      🦢 English and español, a little bit of russian and chinese.
