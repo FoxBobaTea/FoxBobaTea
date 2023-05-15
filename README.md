@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello friend 🥤
 <!--
 **FoxBobaTea/FoxBobaTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Here is a short bullet list of my most relevant information, if you want to invite me to do some collaboration
+### hit me up on my LinkedIn ;)
+
+ ### 🍓 What are you working on right now? 
+     🦊 My personal website :)
+ 
+ ### 🧀 What do you study?
+     🦝 I'm enrolled in an International Business Major, in a few weeks I will also start a computer
+         science degree
+         
+ ### 🥩 Best time to contact you?
+     🦝 After hours, PDT Timezone
+     
+ ### 🥝 Languages?
+     🦢 English and español, a little bit of russian and chinese.
+        If you meant "programming languages" then C++, C#, CSS, JavaScript and a lil' bit of Kotlin
+ 
+  
+ 
+ 
+  
+  
