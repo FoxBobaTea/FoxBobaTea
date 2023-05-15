@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Here is a short bullet list of my most relevant information, if you want to invite me to do some collaboration
-### hit me up on my LinkedIn ;)
+### Here is a short bullet list of my most relevant information, if you want to invite me to do some collaboration hit me up on my LinkedIn ;)
 
  ### 🍓 What are you working on right now? 
      🦊 My personal website :)
