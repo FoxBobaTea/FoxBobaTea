@@ -19,7 +19,7 @@ Here are some ideas to get you started:
      🦊 My personal website :)
  
  ### 🧀 What do you study?
-     🦝 I'm enrolled in an International Business Major, in a few weeks I will also start a computer
+     🐙 I'm enrolled in an International Business Major, in a few weeks I will also start a computer
          science degree, I already took some CS courses on my highschool, PFLC.
          
  ### 🥩 Best time to contact you?
