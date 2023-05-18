@@ -30,8 +30,8 @@ Here are some ideas to get you started:
         If you meant "programming languages" then C++, C#, CSS, JavaScript and a lil' bit of Kotlin
         
         
- ### 🥞 Let's contribute
-     🐱‍🐉 6x times per week, at least 5x as minimum
+ ### 🥞 Contribution Goal
+     🐱‍🐉 7 days ideally, 5 days as minimum.
  
   
  
