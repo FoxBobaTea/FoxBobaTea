@@ -28,6 +28,10 @@ Here are some ideas to get you started:
  ### 🥝 Languages?
      🦢 English and español, a little bit of russian and chinese.
         If you meant "programming languages" then C++, C#, CSS, JavaScript and a lil' bit of Kotlin
+        
+        
+ ### 🥞 Let's contribute
+     🐱‍🐉 6x times per week, at least 5x as minimum
  
   
  
