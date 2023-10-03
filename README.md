@@ -1,4 +1,4 @@
-### Hello friend 🥤
+### Hi fren 🥤
 <!--
 **FoxBobaTea/FoxBobaTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,26 +19,25 @@ Here are some ideas to get you started:
      🦊 My personal website and a soon to be launched app for F-Droid :)
  
  ### 🧀 What do you study?
-     🐙 I'm enrolled in an International Business Major, in a few weeks I will also start a computer
-         science degree, I already took some CS courses on my highschool, PFLC.
+     🐙 I'm enrolled in an International Business Major and a Software Engineering Major 
          
  ### 🥩 Best time to contact you?
-     🦝 After hours, Pacific Time
+     🦝 Monday 2 Friday? After hours PST (also applies to weekends)
+     🐇 Sat & Sun? I will be available from 7-22 hours, for a more inmmediate response contact me through LinkedIn ;)
      
  ### 🥝 Languages?
-     🦢 English and español, a little bit of russian and chinese.
+     🦢 English and español, a little bit of chinese and korean.
         If you meant "programming languages" then C++, C#, CSS, JavaScript and a lil' bit of Kotlin
         
         
  ### 🥞 Contribution Goal
-     🐱‍🐉 7 days ideally, 5 days as minimum.
+     🐱‍🐉 6 days ideally, 4 days as minimum.
      
      
  ### ☕ FoxBobaTea Motto...
      🦩  Simple things, for complex people.
  
-  I'm on evaluations right now, hold on a little please :(
- 
+After a long break and some financial struggles I'm back 2 bussiness, don't hesitate to contact me with your offer :)
  
   
   
