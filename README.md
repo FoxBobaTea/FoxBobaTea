@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  ### ☕ FoxBobaTea Motto...
      🦩  Simple things, for complex people.
  
-After a long break and some financial struggles I'm back 2 bussiness, don't hesitate to contact me with your offer :)
+After a long break and some financial struggles I'm back 2 bussiness, don't hesitate to contact me with your offers :)
  
   
   
