@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 ### Here is a short bullet list of my most relevant information, if you want to invite me to do some collaboration hit me up on my LinkedIn ;)
 
  ### 🍓 What are you working on right now? 
-     🦊 My personal website that will host my professional portfolio and a soon to be launched app for F-Droid :)
+     🦊 My professional web portfolio and a soon to be launched app for F-Droid :)
  
  ### 🧀 What do you study?
      🐙 I'm enrolled in a Bussiness Intelligence and Computer Science Major
          
  ### 🥩 Best time to contact you
-     🐇 After hours PST (also applies to weekends), for a more inmmediate response contact me through LinkedIn, the link is on my bio ;)
+     🐇 After hours PST (also applies to weekends), for a more inmmediate response contact me through LinkedIn, link on my bio ;)
      
  ### 🥝 Languages?
      🦢 English and español, a little bit of chinese and korean.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         
         
  ### 🥞 Contribution Goal
-     🐱‍🐉 6 days ideally, 4 days as minimum.
+     🐱‍🐉 6 days per week ideally, 4 days as minimum.
      
      
  ### ☕ FoxBobaTea Motto...
